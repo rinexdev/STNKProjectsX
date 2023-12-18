@@ -12,7 +12,9 @@ I'm relatively new to programming, so I'm new to this field, and I wouldn't mind
 *   🚀  I'm currently working on [STNK Cloud](http://t.me/STNKCloudRobot)
 *   🧠  I'm learning Kotlin
 *   🤝  I'm open to collaborating on all projects
-*   ⚡  I'm 16 y.o....<a href="https://www.github.com/STNKProjectsX" target="_blank" rel="noreferrer"><img
+*   ⚡  I'm 16 y.o....
+
+ <a href="https://www.github.com/STNKProjectsX" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/STNKProjectsX?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a><a href="https://www.twitch.tv/stnkprojects" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/stnkprojects?logo=twitchsx&style=for-the-badge&color=84cc16&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 <p align="left">
