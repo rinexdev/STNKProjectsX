@@ -1,7 +1,7 @@
 Hi 👋 My name is STNK
 =====================
 
-WEB and Python Dev
+Python Dev
 ------------------
 
 I'm relatively new to programming, so I'm new to this field, and I wouldn't mind learning something from more experienced programmers, as well as I wouldn't mind giving advice to beginners.
