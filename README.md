@@ -9,7 +9,7 @@ I'm relatively new to programming, so I'm new to this field, and I wouldn't mind
 *   🌍  I'm based in Prague
 *   🖥️  See my portfolio at [MyPortfolio](http://t.me/temashub)
 *   ✉️  You can contact me at [stnkprojectsx@gmail.com](mailto:stnkprojectsx@gmail.com)
-*   🚀  I'm currently working on [CityGame](http://t.me/MyCityGame)
+*   🚀  I'm currently working on [CityGame](http://t.me/MyCityGameX)
 *   🧠  I'm learning PostgreSQL and C#
 *   🤝  I'm open to collaborating on all projects
 *   ⚡  I'm 16 y.o....
