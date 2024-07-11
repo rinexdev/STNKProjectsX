@@ -1,4 +1,4 @@
-Hi 👋 My name is STNK
+Hi 👋 I'm Rinex
 =====================
 
 Python Dev
@@ -7,9 +7,9 @@ Python Dev
 I'm relatively new to programming, so I'm new to this field, and I wouldn't mind learning something from more experienced programmers, as well as I wouldn't mind giving advice to beginners.
 
 *   🌍  I'm based in Prague
-*   🖥️  See my portfolio at [STNKProjects](http://t.me/STNKProjects)
+*   🖥️  See my portfolio at [MyPortfolio](http://t.me/temashub)
 *   ✉️  You can contact me at [stnkprojectsx@gmail.com](mailto:stnkprojectsx@gmail.com)
-*   🚀  I'm currently working on [STNK Cloud](http://t.me/STNKCloudRobot)
+*   🚀  I'm currently working on [CityGame](http://t.me/MyCityGame)
 *   🧠  I'm learning PostgreSQL and C#
 *   🤝  I'm open to collaborating on all projects
 *   ⚡  I'm 16 y.o....
