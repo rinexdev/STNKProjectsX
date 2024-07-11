@@ -4,9 +4,11 @@ Hi 👋 I'm Rinex
 Python Dev
 ------------------
 
-I'm relatively new to programming, so I'm new to this field, and I wouldn't mind learning something from more experienced programmers, as well as I wouldn't mind giving advice to beginners.
+I'm relatively new to programming, so I'm new to this field, and I wouldn't mind learning something from more experienced programmers, as well as I wouldn't mind 
+giving advice to beginners.
 
 *   🌍  I'm based in Prague
+*   👨‍💻  I'm working in STNKProjects
 *   🖥️  See my portfolio at [MyPortfolio](http://t.me/temashub)
 *   ✉️  You can contact me at [stnkprojectsx@gmail.com](mailto:stnkprojectsx@gmail.com)
 *   🚀  I'm currently working on [CityGame](http://t.me/MyCityGameX)
